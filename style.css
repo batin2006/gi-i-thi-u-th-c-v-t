@@ -1,0 +1,65 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+  background-color: #f4f9f4;
+  color: #1e352f;
+  margin: 0;
+  padding: 0;
+}
+
+/* Định dạng thẻ tiêu đề (header) */
+header {
+  background-color: #e2f0d9;
+  padding: 20px;
+}
+
+/* Định dạng thẻ điều hướng (nav) và các mục danh sách (li) */
+nav {
+  background-color: #c8e6c9;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  width: 150px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #2c5e3b;
+  font-weight: bold;
+}
+
+/* Định dạng tiêu đề chính (h1) */
+h1 {
+  text-align: center;
+  font-family: Georgia, serif;
+  color: #2e7d32;
+}
+
+/* Định dạng thẻ nội dung chính (main) */
+main {
+  background-color: #f9f9f9;
+  font-size: 100%;
+  padding: 20px;
+}
+
+/* Định dạng các đoạn văn bản (p) */
+p {
+  line-height: 1.6;
+}
+
+/* Định dạng chân trang (footer) */
+footer {
+  background-color: #d8d8d8;
+  padding: 15px;
+  font-size: 80%;
+  margin-top: 20px;
+}
